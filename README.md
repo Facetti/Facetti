@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Facetti
-- 👀 I’m interested in embedded systems
+- 👀 I’m interested in embedded systems, ARMA and Reforger scripting
 
